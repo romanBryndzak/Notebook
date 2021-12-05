@@ -14,7 +14,7 @@ function App() {
             <body className="App-body">
             </body>
             <footer className="App-footer">
-                <h2> Footer. Here there will contacts!!! </h2>
+                <h2> Footer. Here there will contacts! </h2>
             </footer>
         </div>
     );
